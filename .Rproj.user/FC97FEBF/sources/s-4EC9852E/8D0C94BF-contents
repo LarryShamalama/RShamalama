@@ -2,6 +2,7 @@
 #'
 #' @param x A number or vector of numbers.
 #' @return The logarithm of every element in \code{x}
+#' @export
 #' @examples
 #' mylog(c(1, 2, 3, 4, 5))
 #' mylog(100)
