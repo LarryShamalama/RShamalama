@@ -1,4 +1,4 @@
-#' Evaluates the natural logarithm
+#' Evaluates the natural logarithm of a strictly positive number or vector of strictly positive numbers.
 #'
 #' @param x A number or vector of numbers.
 #' @return The logarithm of every element in \code{x}

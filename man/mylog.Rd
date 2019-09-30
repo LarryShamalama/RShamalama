@@ -2,7 +2,7 @@
 % Please edit documentation in R/mylog.R
 \name{mylog}
 \alias{mylog}
-\title{Evaluates the natural logarithm}
+\title{Evaluates the natural logarithm of a strictly positive number or vector of strictly positive numbers.}
 \usage{
 mylog(x)
 }
@@ -13,7 +13,7 @@ mylog(x)
 The logarithm of every element in \code{x}
 }
 \description{
-Evaluates the natural logarithm
+Evaluates the natural logarithm of a strictly positive number or vector of strictly positive numbers.
 }
 \examples{
 mylog(c(1, 2, 3, 4, 5))
