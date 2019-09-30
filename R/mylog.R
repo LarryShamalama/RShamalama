@@ -1,3 +1,11 @@
+#' Evaluates the natural logarithm
+#'
+#' @param x A number or vector of numbers.
+#' @return The logarithm of every element in \code{x}
+#' @examples
+#' mylog(c(1, 2, 3, 4, 5))
+#' mylog(100)
+
 mylog <- function(x){
   n <- length(x)
   res <- numeric(n)
