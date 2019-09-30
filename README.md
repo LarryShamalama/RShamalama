@@ -9,7 +9,7 @@ To install the latest version of `RShamalama`, you are welcome to run the follow
 
 ```
 #install.packages('devtools')
-devtools::install_github(borishejblum/mypkg_boris)
+devtools::install_github(larryshamalama/RShamalama)
 #I'm trying to make this change
 ```
 
