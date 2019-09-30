@@ -14,3 +14,4 @@ devtools::install_github(larryshamalama/RShamalama)
 ```
 
 #Kristin is making a bunch of comments
+I can now make changes without a conflict b/c I pulled it first. 
