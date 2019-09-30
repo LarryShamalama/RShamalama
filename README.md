@@ -11,3 +11,5 @@ To install the latest version of `RShamalama`, you are welcome to run the follow
 #install.packages('devtools')
 devtools::install_github(borishejblum/mypkg_boris)
 ```
+
+#Kristin is making a bunch of comments
